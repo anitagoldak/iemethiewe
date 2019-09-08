@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eghahwied.cbs-biz.com/sitemap.xml
